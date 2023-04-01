@@ -1,5 +1,5 @@
 
-<h1 align="center" >Olá, eu sou Fabrício Liedson, <br> estudante da área de TI</h1>
+<h1 align="center">Fabrício Liedson</h1>
 
 <div align="center">
   <a href="https://github.com/Liedsonfsa/Liedsonfsa">
