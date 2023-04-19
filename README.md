@@ -1,13 +1,12 @@
 
 <h1 align="center">Welcome to my profile</h1>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/Liedsonfsa/Liedsonfsa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liedsonfsa&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liedsonfsa&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
+</div> -->
 
-## Linguagens
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
