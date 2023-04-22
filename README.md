@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi👋, my name's liedson, welcome to my profile</h1>
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+my+name+is+Fabrício+Liedson" alt="Typing SVG" />
+</div>
 
 # About me
 
