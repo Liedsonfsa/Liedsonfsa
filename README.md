@@ -1,9 +1,4 @@
-
-<div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+my+name+is+Fabrício+Liedson" alt="Typing SVG" />
-</div>
-
-# About me
+# Hello, my name is Fabrício Liedson
 
 📚 I'm a student of information systems at the Federal University of Piauí
 <br>
@@ -20,12 +15,3 @@
 </div>
 
 <br>
-
-<div align="center">
- <!-- <a href="https://github.com/Liedsonfsa/Liedsonfsa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liedsonfsa&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liedsonfsa&layout=compact&langs_count=7&theme=graywhite"/>
--->
-
-
-
