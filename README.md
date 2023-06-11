@@ -4,7 +4,6 @@
 <br>
 💻 I'm a web development apprentice
 <br>
-🤖 I also like to learn about AI and machine learning
 
 # Languages
 <div  style="display: inline_block"><br>
