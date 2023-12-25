@@ -1,4 +1,5 @@
 
+<div align-intems="center">
 <strong align="center">Fabrício Liedson dos Santos Anjos</strong>
 <br> <br>
 📚 Sistemas de Informação - UFPI
@@ -21,5 +22,6 @@
 
 <a href="https://www.github.com/Liedsonfsa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Liedsonfsa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
 
 
