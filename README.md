@@ -16,7 +16,11 @@
 </div>
 
 <br>
-
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Liedsonfsa&layout=compact&bg_color=ffffff00&title_color=808080&text_color=808080&hide_border=true&locale=pt-br&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&langs_count=4" alt="Wakatime Stats"/>
+</div>
+-->
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Liedsonfsa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Liedsonfsa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
