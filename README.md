@@ -1,19 +1,8 @@
 <p align="center">
-  
-<table>
-  <tr>
-    <td width="140">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-    </td>
-    <td>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=500&color=blue&background=FFFFFF00&width=500&height=50&lines=Welcome+to+my+profile;My+name+is+Fabrício+Liedson;I'm+a+Backend+Developer)](https://git.io/typing-svg)
-    </td>
-  </tr>
-</table>
 
 </p>
-</table>
 
 
 <p align="center">
