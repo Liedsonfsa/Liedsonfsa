@@ -1,59 +1,27 @@
-# Liedson
+<p align="center">
+  
+<table>
+  <tr>
+    <td width="140">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+    </td>
+    <td>
 
-```bash
-curl -X GET https://programmers.com/select_random_dev/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=500&color=blue&background=FFFFFF00&width=500&height=50&lines=Welcome+to+my+profile;My+name+is+Fabrício+Liedson;I'm+a+Backend+Developer)](https://git.io/typing-svg)
+    </td>
+  </tr>
+</table>
 
-Status: 200 OK
-HTTP 1
-```
+</p>
+</table>
 
-```json
-{
-  "name": "Fabrício Liedson",
-  "profissao": "Backend Developer",
-  "about_me": "sobre mim",
-  "education": {
-    "UFPI": "Bachelor in Information Systems at Federal University of Piauí",
-  },
-  "interesses": [
-    "Desenvolvimento Web",
-    "Inteligência Artificial",
-    "Aprendizado de Máquina"
-  ],
-  "localizacao": "Itainópolis, Brasil",
-  "contact": {
-    "email": "fabricio.anjos@ufpi.edu.br",
-    "linkedin": "https://linkedin.com/in/fabricioliedson",
-    "github": "https://github.com/Liedsonfsa"
-  },
-  "languages": {
-    "Go": "for backend development and build REST API's",
-    "Python": ,
-    "C": ,
-    "HTML": ,
-    "CSS": ,
-  },
-  "frameworks": {
-    "Gin": "An Go Framework for building API's",
-  },
-  "tools": [
-    "Docker",
-    "Postmam",
-    "Git"
-  ],
-  "databases": [
-    "MySQl",
-    "MongoDB"
-  ]
-}
-```
-<div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liedsonfsa&theme=github_dark) 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liedsonfsa&theme=transparent">
+</p>
 
-<img src="https://ssr-contributions-svg.vercel.app/_/Liedsonfsa?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=3.5&animation_delay=0.13&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=14_0&format=svg&weeks=30&theme=green"/>
-</div>
-
-<!-- ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=neon) -->
-
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,c,mysql,firebase,postman,git,docker&theme=light" />
+  </a>
+</p>
