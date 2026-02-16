@@ -3,6 +3,7 @@
 💻 **Software Developer**  
 
 👨‍🎓 Graduated in Information Systems at the Federal University of Piauí (2022 - 2025)
+<br>
 📚 Master's student in Electrical Engineering at the Federal University of Piauí (2026 - At the moment)
 
 
