@@ -2,7 +2,8 @@
 
 💻 **Software Developer**  
 
-📚 Bachelor's Degree in Information Systems at the Federal University of Piauí (2022 - At the moment)
+👨‍🎓 Graduated in Information Systems at the Federal University of Piauí (2022 - 2025)
+📚 Master's student in Electrical Engineering at the Federal University of Piauí (2026 - At the moment)
 
 
 ## 🛠️ Stack
